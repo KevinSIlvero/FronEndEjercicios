@@ -1,0 +1,25 @@
+body {
+    background-image: url('img/fondo-abstracto-formas-blancas_79603-1362.webp');
+    background-size: cover;
+}
+h1 {
+    font-size: larger;
+    font-weight: 300;
+    border: 12px;
+    font-family: 'por story', cursive;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    text-rendering: auto;
+
+}
+p {
+    font-size:larger;
+    text-align: center;
+    border: 15px;
+    word-wrap: break-word;
+    font-family: 'Poor Story', cursive;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-style: groove;
+}

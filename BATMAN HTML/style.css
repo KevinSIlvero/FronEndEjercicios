@@ -1,0 +1,26 @@
+body {
+    background-image: url('img/fondo-abstracto-formas-blancas_79603-1362.webp');
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+
+.batman {
+    text-align: center;
+}
+
+h1 {
+    color: #005677;
+    background-color: #c4c4c4;
+    text-align: center;
+}
+h2 {
+    color: #005677;
+    background-color: #c4c4c4;
+}
+
+footer { 
+    background-color: #0b394c;
+    background-position: center;
+    text-align: center;
+}
